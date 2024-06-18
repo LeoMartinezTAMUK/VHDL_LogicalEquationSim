@@ -1,6 +1,6 @@
 # VHDL_LogicalEquationSim
 
-Author: Leo Martinez III
+Author: Leo Martinez III - [LinkedIn](https://www.linkedin.com/in/leo-martinez-iii/)
 
 Contact: [leo.martinez@students.tamuk.edu](mailto:leo.martinez@students.tamuk.edu)
 
